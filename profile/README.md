@@ -1,12 +1,7 @@
-## Welcome to the team 🙌
+## Welcome to the moclojer cloud team 🙌
 
-<!--
+The main goal of **moclojer cloud** with **product focus** and **Clojure by design**, providing shared _mock server hosting_ (using moclojer open source).
 
-**Here are some ideas to get you started:**
+We will be a startup that follows the [open startup model](https://hackernoon.com/what-does-it-mean-to-be-an-open-startup-f4446984189) (everything related to money will be open, from employees' salaries to billing, [see this example](https://cal.com/open)). This might drive away some people who don't want to have their **"financial life" public**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-👀 Contribution guidelines - how do team members dive in?
-👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
-🍪 Fun facts - what is your team's favorite snack?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> We are not looking to make a lot of money but to finance a small team to develop moclojer and in the future other open source products and libraries for the clojure world.
