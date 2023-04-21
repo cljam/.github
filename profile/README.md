@@ -1,6 +1,6 @@
 # Welcome to the **cljazz** team 🙌
 
-![cljazz](https://github.com/organizations/cljazz/settings/profile)
+![cljazz](https://avatars.githubusercontent.com/u/130798503?s=200&v=4)
 
 The main goal of **cljazz** with **product focus** and **Clojure by design**, We develop open source projects written in Clojure and create a _hosted version_ of it so you (or your company) don't have to worry about infrastructure - [Micro SaaS](https://engsoftmoderna.info/artigos/micro-saas.html).
 
